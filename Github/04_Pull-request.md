@@ -20,8 +20,8 @@ reviewr, assignee를 반드시 지정하고, 가능하다면 Label도 붙여야 
 ## To Reviewer
 
 ## Issue Tags
-Closed | Fixed:
-See also:
+Closed | Fixed: #이슈번호
+See also: #읽는대상
 ```
 
 <br>
