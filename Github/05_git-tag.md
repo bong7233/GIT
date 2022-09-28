@@ -1,5 +1,5 @@
 # Git tag
-특정 커밋에 버전을 기록할 때 사용하는 기능으로 릴리즈 버전을 기록할 때 주로 사용된다.    
+특정 커밋에 버전을 기록할 때 사용하는 기능으로 릴리즈 버전을 기록할 때 주로 사용된다.
 - Lightweight Tag : 버전만 기록하는 태그
 - Annotated Tag : 태그를 생성한 유저,이메일,태그생성날짜,태그메세지를 함께 기록하는 태그
 <br>
@@ -22,3 +22,4 @@ Github 의 repository의 Release 에서도 편하게 생성, 설정이 가능하
 - git tag : 생성된 태그 확인 (git log 로도 커밋에 태그가 등록된것을 확인할 수 있음)
 - git show \<tag name> : 태그 상세내용 확인
 - git push origin \<tag name> : 생성한 태그 깃헙에 등록
+
